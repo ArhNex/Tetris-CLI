@@ -10,7 +10,7 @@ Must have `gcc` `make` `doxygen`
 
 `make install`
 
-### Then run Tetris file
+Then run `./Tetris` executable file.
 
 # Documentation
 
